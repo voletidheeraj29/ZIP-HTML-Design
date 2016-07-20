@@ -1,0 +1,54 @@
+.page-header {
+    border-bottom: 1px solid black;
+    padding: 0px;
+}
+h3 {
+    font-family: InsightDisplayprint;
+}
+.col-sm-8 {
+    padding: 0px;
+}
+.col {
+    -moz-columns: 2 8em;
+    -webkit-columns: 2 8em;
+    columns: 2 8em;
+    padding-top: 20px;
+    column-gap: 25px;
+}
+p {
+    font-family: Insightprint;
+    font-size: 17px;
+    text-align: justify;
+    word-break: break-all;
+}
+.blue-text {
+    color: #0088cc;
+}
+.col-sm-12 {
+    background-color: #0088cc;
+    border-radius: 20px;
+    padding: 25px;
+    color: #ffffff;
+    margin-left: 15px;
+}
+img {
+    border: 3px solid #948484;
+    border-radius: 20px;
+    width: 100%;
+}
+.grey-box {
+    background-color: #948484;
+    border-radius: 15px;
+    color: #ffffff;
+    padding: 10px 30px 5px 30px;
+    font-family: Insightprint-Bold;
+}
+.space {
+    padding-top: 20px;
+}
+.footer {
+    font-family: InsightDisplayprint;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}

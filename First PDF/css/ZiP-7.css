@@ -1,0 +1,28 @@
+ h3 {
+     font-family: InsightDisplayprint;
+ }
+ .page-header {
+     border-bottom: 1px solid black;
+     padding: 0px;
+ }
+ .col {
+     -moz-columns: 3 16em;
+     -webkit-columns: 3 16em;
+     columns: 3 16em;
+     padding: 0px 15px 0px 15px;
+ }
+ p {
+     font-family: Insightprint;
+     font-size: 17px;
+     text-align: justify;
+     word-break: break-all;
+ }
+ .red-text {
+     color: #b30000;
+ }
+ .footer {
+     font-family: InsightDisplayprint;
+     font-size: 15px;
+     padding-top: 10px;
+     padding-bottom: 40px;
+ }

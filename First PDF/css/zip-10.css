@@ -1,0 +1,100 @@
+p {
+    font-family: Insightprint-Bold;
+    font-size: 25px;
+    word-break: break-all;
+}
+
+h2 {
+    font-family: "InsightDisplayprint";
+    line-height: 4px;
+    font-size: 25px;
+}
+
+.desc {
+    padding-top: 40px;
+    font-family: "InsightDisplayprint";
+    font-size: 25px;
+    color: #b30000;
+}
+
+.head {
+    padding-top: 20px;
+    font-family: "InsightDisplayprint";
+    font-size: 25px;
+}
+
+.pad {
+    padding-top: 20px;
+}
+
+.img-border {
+    border: 3px solid #b30000;
+}
+
+.caption {
+    font-family: "Insightprint";
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+}
+
+.red-text {
+    color: #b30000;
+}
+
+.title {
+    padding-bottom: 30px;
+    font-family: "Insightprint-Bold";
+    font-size: 30px;
+}
+
+.space-box {
+    padding: 25px;
+}
+
+.info {
+    font-family: "Insightprint";
+    font-size: 20px;
+}
+
+.col-sm-7 {
+    padding: 0px;
+}
+
+.li-text {
+    color: black;
+    font-size: 20px;
+    padding-left:20px;
+}
+
+ul {
+    list-style-image: url('../images/red-bulletin.png');
+    padding-left: 25px;
+}
+
+li {
+    color: #b30000;
+}
+
+.grey-box {
+    border: 3px solid #b30000;
+    border-radius: 15px;
+    font-family: "Insightprint";
+    padding: 20px;
+}
+
+.space-box1 {
+    padding-top: 150px;
+}
+
+.pad1 {
+    padding: 25px;
+}
+
+.center-text {
+    padding-left:40px;
+}
+
+.bottom-text {
+    padding-left:57px;
+}

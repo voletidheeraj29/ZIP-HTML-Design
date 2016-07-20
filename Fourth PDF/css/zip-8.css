@@ -1,0 +1,58 @@
+p {
+  word-break: break-all;
+}
+.page-header {
+    border-bottom: 1px solid #000000;
+}
+
+h2 {
+  font-family: "InsightDisplayprint";   
+    font-size: 25px;
+    word-break: break-all;
+ 
+ }
+
+.head{
+  color:#ff751a ;
+  font-family: "InsightDisplayprint";
+  font-size:120px; 
+  padding-left:20px;
+  word-break: break-all;
+}
+.col {
+  -moz-columns: 3 12em;
+  columns: 3 12em;
+  -moz-column-gap:25px;
+  column-gap:25px;
+}
+.orange-text{
+  font-size:28px;
+  font-family: "Insightprint";
+  color:#ff751a ;
+  word-break: break-all;
+}
+.orange-text1{
+  font-size:23px;
+  font-family:"Insightprint-Bold";
+  color:#ff751a;  
+  word-break: break-all;
+}
+.n-text{
+  font-size: 23px;
+  font-family: "Insightprint";
+  word-break: break-all;
+}
+.grey-box {
+  font-size: 20px;
+ font-family: "Insightprint";
+ word-break: break-all;
+  border-radius: 15px;
+  padding: 20px;
+  background-color: #ccc4c4;
+  word-break: break-all;
+}
+.bottom-text {
+  font-family: "InsightDisplayprint";
+  font-size: 20px;
+  padding-left: 20px; 
+}

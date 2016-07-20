@@ -1,0 +1,50 @@
+.container {
+    background-color: #cce6ff;
+}
+.col-sm-6 {
+    padding: 0px;
+    align-content: center;
+}
+img {
+    column-fill: all;
+}
+p {
+    word-break: break-all;
+}
+.info {
+    font-family: Insightprint;
+    padding: 10px 60px 10px 60px;
+    font-size: 20px;
+}
+.blue-text {
+    color: #0088cc;
+    font-size: 30px;
+}
+.heading {
+    padding: 80px 60px 10px 60px;
+    font-family: Insightprint-Bold;
+    color: #0088cc;
+    font-size: 45px;
+    word-break: break-all;
+}
+ul {
+    list-style-image: url('../images/blue-bulletin.png');
+    padding-left: 25px;
+}
+.li-text {
+    color: black;
+    font-size: 20px;
+}
+.blue-box {
+    background-color: #0088cc;
+    border-radius: 15px;
+    color: #ffffff;
+    padding: 20px 50px 10px 50px;
+    font-family: Insightprint-Bold;
+}
+.large-text {
+    font-size: 30px;
+}
+.space {
+    padding-top: 40px;
+}

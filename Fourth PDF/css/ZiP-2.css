@@ -1,0 +1,62 @@
+h2, h4{
+    font-family: InsightDisplayprint;
+}
+.page-header {
+    border-bottom-color: #000000;
+
+}
+#head {
+    font-family: InsightDisplayprint;
+    padding-top: 30px;
+}
+.row {
+    overflow: hidden;
+}
+.caption {
+    text-align: center;
+    font-family: Insightprint;
+    font-size: 24px;
+} 
+.red-box {
+    font-family: Insightprint-Bold;
+    font-size: 25px;
+    color: #ffffff;
+    background-color: #b30000;
+    border-radius: 20px;
+    padding: 60px 30px;
+}
+.num-font {
+    font-size: 45px;
+    font-family: Insightprint-Bold;
+    text-align: center;
+}
+.info-head {
+    font-family: Insightprint-Bold;
+    font-size: 35px;
+}
+.info {
+    font-family: Insightprint;
+    font-size: 28px;
+}
+.space {
+    padding-top: 20px;
+}
+.box {
+    background-color: #ccc4c4;
+    border-radius: 0px 15px 15px 0px;
+    padding: 20px 20px 20px 20px;
+    font-family: Insightprint;
+    font-size: 25px;
+}
+.red-text {
+    color: #b30000;
+}
+.large-text {
+    font-size: 35px;
+}
+.medium-text{
+    font-size: 30px;
+}
+.top-padding{
+    padding-top: 20px;
+}

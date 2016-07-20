@@ -1,0 +1,68 @@
+p {
+    font-family: Insightprint-Bold;
+    font-size: 25px;
+	word-wrap: break-word;
+}
+
+h2 {
+  font-family: "InsightDisplayprint";
+  line-height: 4px;
+}
+
+.col-sm-4 {
+  padding-top: 30px;
+}
+
+.head {
+  font-family: "Insightprint";
+  font-size: 32px;
+  color: #0088cc;
+  padding-top: 30px;
+  word-break: break-all;
+}
+
+.info {
+  font-family: "Insightprint-Bold";
+  font-size: 25px;
+  padding-top: 50px;
+}
+
+.sub-info {
+  font-family: "Insightprint";
+  font-size: 25px;
+  padding-top: 30px;
+}
+
+.col-sm-8, .bottomtext {
+  padding-top: 28px;
+}
+.pad{
+padding-left:15px;
+padding-top:30px;
+}
+.sub-head {
+  font-family: "Insightprint";
+  font-size: 25px;
+  color: #0088cc;
+  padding-top: 30px;
+  
+}
+
+.col-sm-12 {
+  background-color: #cce6ff;
+  padding: 20px 50px;
+  color: black;
+  border-radius:20px;
+}
+
+.blue-text {
+  color: #0088cc;
+}
+
+.info2 {
+  background-color: #ffffff;
+  padding-top: 100px;
+  color: black;
+  border-radius: 20px;
+  font-size: 25px;
+}

@@ -1,0 +1,72 @@
+.page-header {
+    border-bottom: 1px solid black;
+    padding: 0px;
+}
+h3 {
+    font-family: InsightDisplayprint;
+}
+.blue-text {
+    color: #0088cc;
+    font-family: Insightprint;
+    font-size: 30px;
+    text-align: justify;
+    word-break: break-all;
+}
+.pad-box {
+    padding: 10px 0px;
+}
+.grey-box {
+    background-color: #d0c8c8;
+    border-radius: 20px;
+    font-family: Insightprint;
+    padding: 20px;
+}
+.orange-circle {
+    background-color: #ff8c1a;
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    font-family: Insightprint;
+    text-align: center;
+    font-size: 20px;
+    color: #ffffff;
+    padding: 20px;
+}
+.blue-circle {
+    background-color: #0088cc;
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    font-family: Insightprint;
+    text-align: center;
+    font-size: 20px;
+    color: #ffffff;
+    padding: 20px;
+    word-wrap: break-word;
+}
+.bold-text {
+    font-family: Insightprint-Bold;
+    font-size: 22px;
+}
+.info {
+    font-family: Insightprint;
+    font-size: 20px;
+    text-align: justify;
+    word-wrap: break-word;
+}
+.orange-text {
+    color: #ff8c1a;
+    font-family: Insightprint-Bold;
+    font-size: 23px;
+}
+.blue-text {
+    color: #0088cc;
+    font-family: Insightprint-Bold;
+    font-size: 23px;
+}
+.row {
+    padding-top: 30px;
+}
+.col-sm-8 {
+    padding: 30px;
+}

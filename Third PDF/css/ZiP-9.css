@@ -1,0 +1,50 @@
+.pad-box {
+    padding: 5px 0px;
+}
+.page-header {
+    border-bottom: 1px solid black;
+    padding: 0px;
+}
+h3 {
+    font-family: InsightDisplayprint;
+}
+.col {
+    -moz-columns: 2 20em;
+    -webkit-columns: 2 20em;
+    columns: 2 20em;
+    column-gap: 20px;
+}
+p {
+    font-family: Insightprint;
+    font-size: 20px;
+    text-align: justify;
+    word-break: break-all;
+}
+img#image {
+    border: 3px solid #948484;
+    border-radius: 20px;
+    width: 100%;   
+}
+.footer {
+    font-family: InsightDisplayprint;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.row {
+    padding: 10px 20px;
+}
+.col-sm-8{
+    padding: 10px 0px;
+}
+.col-sm-4{{
+    padding-right: 0px;
+}
+}
+.blue-box {
+    background-color: #0088cc;
+    border-radius: 15px;
+    color: #ffffff;
+    padding: 20px 30px;
+    font-family: Insightprint-Bold;
+}

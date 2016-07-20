@@ -1,0 +1,108 @@
+p {
+    font-family: Insightprint-Bold;
+    font-size: 25px;
+    word-break: break-all;
+}
+.page-header {
+    border-bottom: 1px solid #000000;
+}
+
+h2 {
+    font-family: "InsightDisplayprint";   
+    font-size: 25px;
+}
+
+.desc {
+    padding-top: 40px;
+    font-family: "InsightDisplayprint";
+    font-size: 25px;
+    color: #0088cc;
+}
+
+.head {
+    padding-top: 20px;
+    font-family: "InsightDisplayprint";
+    font-size: 25px;
+}
+
+.pad {
+    padding-top: 20px;
+}
+
+.img-border {
+    border: 2px solid #ff751a;
+}
+
+.caption {
+    font-family: "Insightprint";
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+}
+
+.blue-text {
+    color: #0088cc;
+}
+
+.title {
+    font-family: "Insightprint-Bold";
+    font-size: 30px;
+}
+
+.space-box {
+    padding: 25px;
+}
+
+.info {
+    font-family: "Insightprint";
+    font-size: 20px;
+}
+
+.col-sm-8 {
+    font-family: "Insightprint";
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.li-text {
+    color: black;
+    font-family: "Insightprint";
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+ul {
+    list-style-image: url('../images/blue-bulletin.png');
+    padding-left: 25px;
+}
+
+li {
+    color: #0088cc;
+}
+
+.blue-box {
+    border: 3px solid #0088cc;
+    border-radius: 15px;
+    font-family: "Insightprint";   
+    padding: 25px;
+    font-size: 22px;
+    word-break: break-all;
+    text-align: center;
+}
+
+.space-box1 {
+    padding-top: 100px;
+}
+
+.pad1 {
+    padding: 25px;
+}
+
+.left-text {
+    text-align: left;
+    font-size: 22px;
+}
+
+.bottom-text {
+    padding-left: 65px;
+}

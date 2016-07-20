@@ -1,0 +1,46 @@
+ h3 {
+     font-family: InsightDisplayprint;
+ }
+ .page-header {
+     border-bottom: 1px solid black;
+     padding: 0px;
+ }
+ .col {
+     -moz-columns: 3 20em;
+     -webkit-columns: 3 20em;
+     columns: 3 20em;
+     padding: 0px 15px;
+ }
+ p {
+     font-family: Insightprint;
+     font-size: 20px;
+     text-align: justify;
+     word-break: break-all;
+ }
+ .head{     
+     font-size: 25px;
+ }
+ .space{
+     padding: 30px;
+ }
+ .red-text {
+     color: #b30000;
+ }
+.green-text {
+     color: #00cc44;
+ }
+ .purple-text {
+     color: #8f00b3;
+ }
+ .yellow-text {
+     color: #e6b800;
+ }
+ .title{
+     font-family: Insightprint-Bold;
+ }
+ img{
+     width: 100%;
+ }
+ .col-sm-6{    
+     padding: 0px;
+ }
